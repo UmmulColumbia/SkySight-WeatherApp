@@ -17,3 +17,8 @@ The SkySight-WeatherApp is a dynamic web application that provides users with th
 - OpenWeatherMap API
 - Normalize.css for CSS reset
 - Day.js for date formatting
+
+## Usage
+- Search for a City: Enter the name of the city in the search bar and press enter or click the search button.
+- View Weather Data: Current weather conditions will be displayed immediately, and a 5-day forecast will appear below.
+- Access Search History: Click on any city name listed under the search bar to quickly retrieve weather data for that location again.

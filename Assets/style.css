@@ -5,6 +5,14 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
+ :root {
+    --color-primary: #2d3e50;
+    --color-info: #1bbc9b;
+    --color-danger: #e64c66;
+    --font-size-base: 1rem;
+    --spacing-unit: 1rem;
+  }
+  
  html {
     line-height: 1.15;
     /* 1 */

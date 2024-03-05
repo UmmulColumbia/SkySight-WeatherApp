@@ -22,3 +22,6 @@ The SkySight-WeatherApp is a dynamic web application that provides users with th
 - Search for a City: Enter the name of the city in the search bar and press enter or click the search button.
 - View Weather Data: Current weather conditions will be displayed immediately, and a 5-day forecast will appear below.
 - Access Search History: Click on any city name listed under the search bar to quickly retrieve weather data for that location again.
+## Screenshot:
+![image](https://github.com/UmmulColumbia/SkySight-WeatherApp/assets/156148729/c3e7a0e3-0bc1-4ba3-a3d6-c8d497dd7bab)
+

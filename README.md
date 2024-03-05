@@ -27,8 +27,14 @@ The SkySight-WeatherApp is a dynamic web application that provides users with th
 ![image](https://github.com/UmmulColumbia/SkySight-WeatherApp/assets/156148729/c3e7a0e3-0bc1-4ba3-a3d6-c8d497dd7bab)
 ![image](https://github.com/UmmulColumbia/SkySight-WeatherApp/assets/156148729/34075197-803c-490e-ae2f-c722d389364c)
 ![image](https://github.com/UmmulColumbia/SkySight-WeatherApp/assets/156148729/b92cbd2c-9483-4616-bbe8-eb88a911cddd)
-## Live-Link:
+## LiveLink:
 https://ummulcolumbia.github.io/SkySight-WeatherApp/
 
+## Credits
+This project was created by Ummul Mukta as a demonstration of jQuery and API implementation skills.
 
+## License
+This project is licensed under the MIT License.
+
+#### Stay ahead of the weather with SkySight-WeatherApp.Happy weather watching and efficient planning!
 

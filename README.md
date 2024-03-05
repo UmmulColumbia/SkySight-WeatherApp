@@ -36,5 +36,5 @@ This project was created by Ummul Mukta as a demonstration of jQuery and API imp
 ## License
 This project is licensed under the MIT License.
 
-#### Stay ahead of the weather with SkySight-WeatherApp.Happy weather watching and efficient planning!
+#### Stay ahead of the weather with SkySight-WeatherApp. Happy weather watching and efficient planning!
 
